@@ -18,5 +18,4 @@ Use Case:
 This project is particularly useful for quality control teams in manufacturing settings, where maintaining consistent product dimensions is critical. By implementing this alert system, organizations can proactively address potential quality issues, reduce waste, and enhance overall production efficiency.
 
 **Technologies Used:**
-SQL (Structured Query Language)
-Database Management System (e.g., PostgreSQL, SQL Server)
+SQL (Structured Query Language); Database Management System (e.g., PostgreSQL, SQL Server)
